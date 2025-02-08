@@ -1,1 +1,2 @@
-xhofe/alist:v3.42.0
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
