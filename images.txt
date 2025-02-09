@@ -1,1 +1,2 @@
-eipwork/nfs-subdir-external-provisioner:v4.0.2
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/ingress-nginx:v1.0.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/kube-webhook-certgen:v1.0
